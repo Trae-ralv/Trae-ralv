@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working at Idemia as Software Developer & Part time student at Wawasan Open University. Experienced in Full Stack Development with Three Tier Structure of Frontend, Backend & APIs. Also created a AI Chatbot Known as Knatty<br>used in Knowy using Gemini API providing me strong prompt engineering skills. Eager to apply technical<br>expertise and problem-solving skills to create impactful software applications.
+I’m currently working at Idemia as Software Developer & Part time student at Wawasan Open University. Experienced in Full Stack Development with Three Tier Structure of Frontend, Backend & APIs. Also created a AI Chatbot Known as Knatty used in Knowy using Gemini API providing me strong prompt engineering skills. Eager to apply technical expertise and problem-solving skills to create impactful software applications.
 
 
 # 💻 Tech Stack:
